@@ -5,7 +5,7 @@
 **1.What is HTML and what is it used for?**
 
 <details>
-  <summary>-Answer:</summary>
+  <summary>Answer:</summary>
 
    HTML stands for HyperText Markup Language. It is the standard language used to create and structure content on the web.
 
