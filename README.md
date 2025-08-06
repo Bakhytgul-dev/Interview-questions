@@ -2,12 +2,12 @@
 
 📌 Basics
 
-What is HTML and what is it used for?
+**1.What is HTML and what is it used for?**
 
 <details>
-  <summary>Open</summary>
+  <summary>-Answer:</summary>
 
-   Answ: HTML stands for HyperText Markup Language. It is the standard language used to create and structure content on the web.
+   HTML stands for HyperText Markup Language. It is the standard language used to create and structure content on the web.
 
    HTML is used to:
 
@@ -28,43 +28,47 @@ What is HTML and what is it used for?
    Create interactive forms for user input.
 
    Provide semantic meaning for search engines and assistive technologies (e.g., screen readers).
-</details> `
+
+   HTML is not a programming language.
+
+   It's a markup language that tells browsers how to display content.
+</details> 
    
 
 
 
-What is semantic HTML? Give examples.
+**2.What is semantic HTML? Give examples.**
 
-What semantic tags do you know?
+**3.What semantic tags do you know?**
 
-What’s the difference between `<div>`and `<section>`?
+**4.What’s the difference between `<div>`and `<section>`?**
 
-What is DOCTYPE and why is it needed?
+**5.What is DOCTYPE and why is it needed?**
 
-What are block-level and inline elements? Examples.
+**6.What are block-level and inline elements? Examples.**
 
-What is the basic structure of an HTML document?
+**7.What is the basic structure of an HTML document?**
 
 📌 Forms and Input
 
-What types of <input> are there?
+**8.What types of <input> are there?**
 
-What is a label and how is it connected to an input?
+**9.What is a label and how is it connected to an input?**
 
-What is the name attribute and why is it important in forms?
+**10.What is the name attribute and why is it important in forms?**
 
 📌 Attributes
 
-What does the alt attribute do for an image?
+**11.What does the alt attribute do for an image?**
 
-What’s the difference between id and class?
+**12.What’s the difference between id and class?**
 
-What is the data-* attribute used for?
+**13.What is the data- attribute used for?**
 
-What are aria-* attributes and why are they important? (Accessibility)
+**What are aria-* attributes and why are they important? (Accessibility)**
 
 📌 Scripts and Links
 
-What is the difference between <script>, <noscript>, defer, and async?
+**14.What is the difference between <script>, <noscript>, defer, and async?**
 
-What does rel="noopener noreferrer" do in links?
+**15.What does rel="noopener noreferrer" do in links?**
