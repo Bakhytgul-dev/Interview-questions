@@ -4,7 +4,7 @@
 
 What is HTML and what is it used for?
 
-   Answ: HTML stands for HyperText Markup Language. It is the standard language used to create and structure content on the web.
+   Answ: <details>HTML stands for HyperText Markup Language. <summary> It is the standard language used to create and structure content on the web.
 
    HTML is used to:
 
@@ -24,7 +24,8 @@ What is HTML and what is it used for?
 
    Create interactive forms for user input.
 
-   Provide semantic meaning for search engines and assistive technologies (e.g., screen readers).
+   Provide semantic meaning for search engines and assistive technologies (e.g., screen readers).</summary>
+   </details>
 
 
 
