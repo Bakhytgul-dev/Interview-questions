@@ -8,7 +8,7 @@ What is semantic HTML? Give examples.
 
 What semantic tags do you know?
 
-What’s the difference between <code data-start="302" data-end="309"><div></code> and <code><section></code>?
+What’s the difference between `<div>`and `<section>`?
 
 What is DOCTYPE and why is it needed?
 
