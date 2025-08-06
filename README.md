@@ -4,6 +4,30 @@
 
 What is HTML and what is it used for?
 
+   Answ: HTML stands for HyperText Markup Language. It is the standard language used to create and structure content on the web.
+
+   HTML is used to:
+
+   Structure content on a webpage — like paragraphs, headings, images, lists, tables, forms, and links.
+
+   Define the meaning of elements — for example:
+
+   `<h1>` to `<h6>`: headings
+
+   `<p>`: paragraph
+
+   `<img>`: image
+
+   `<a>`: hyperlink
+
+   Embed media like images, videos, and audio.
+
+   Create interactive forms for user input.
+
+   Provide semantic meaning for search engines and assistive technologies (e.g., screen readers).
+
+
+
 What is semantic HTML? Give examples.
 
 What semantic tags do you know?
