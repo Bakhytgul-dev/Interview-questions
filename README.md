@@ -8,7 +8,7 @@ What is semantic HTML? Give examples.
 
 What semantic tags do you know?
 
-What’s the difference between <div> and <section>?
+What’s the difference between '<div>' and '<section>'?
 
 What is DOCTYPE and why is it needed?
 
